@@ -1,21 +1,12 @@
 # CodeScope
 
-A personal LangChain-based tool that analyzes a local codebase or GitHub repository and produces a structured report covering complexity, dependencies, architecture notes, and change explanations.
+A langchain based tool that analyzes your repositories in your github profile periodically and produces a structured report covering complexity, dependencies, architecture notes, and change explanations.
 
 ## Features (planned)
-- Analyze local path or GitHub repo
-- Dependency summary
-- Complexity metrics
-- Architecture notes
+- Analyze github profile
 - Recent change explanations
 - Structured output (JSON / Markdown)
 
-## Setup
-```bash
-python -m venv venv
-source venv/bin/activate
-pip install -r requirements.txt
-```
 
 ## Usage (placeholder)
 ```bash
